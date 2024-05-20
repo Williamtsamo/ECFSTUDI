@@ -1,8 +1,8 @@
 <?php
 
 //include_once("templates/header.php");
-require 'templates/header.php';
-//include_once("lib/avis.php");
+require_once 'templates/header.php';
+require_once("lib/avis.php");
 
 //$avis = getavis($conn);
 //var_dump($avis);
@@ -80,8 +80,12 @@ require 'templates/header.php';
         
     </form>
   </main>
-  <script src="/docs/5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <script src="/docs/5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin=">
 
+<?php
+require_once 'templates/footer.php';
+//include_once("lib/avis.php");
 
-
-</div>
+//$avis = getavis($conn);
+//var_dump($avis);
+?>

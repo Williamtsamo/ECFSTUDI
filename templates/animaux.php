@@ -1,7 +1,7 @@
 <?php
 
 //include_once("templates/header.php");
-require 'header.php';
+require_once 'header.php';
 //include_once("lib/avis.php");
 
 //$avis = getavis($conn);
