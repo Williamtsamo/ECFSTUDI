@@ -32,19 +32,20 @@ Instructions pour installer le projet. Par exemple :
 1. **Cloner le dépôt :**
 
     ```bash
-    git clone https://github.com/votre_nom_utilisateur/nom_du_projet_php.git
+    [git clone https://github.com/Williamtsamo/ECFSTUDI.git
     ```
 
 2. **Aller dans le répertoire du projet :**
 
     ```bash
-    cd nom_du_projet_php
+    cd ECFSTUDI
     ```
 
 3. **Configurer la base de données :**
 
     - Créer une base de données MySQL.
-    - Importer le fichier `database.sql` pour créer les tables nécessaires.
+    - Importer le fichier `arcadiaTSAMO WILLIAM.SQL.sql`
+    - pour créer les tables nécessaires.
 
 4. **Configurer les paramètres de la base de données :**
 
@@ -83,12 +84,7 @@ Instructions et exemples sur comment utiliser votre projet après l'installation
 
 ## Tests
 
-Instructions sur comment exécuter les tests pour ce projet (si vous avez des tests).
 
-1. **Exécuter les tests unitaires :**
-
-    ```bash
-    phpunit tests/
     ```
 
 ## Contribuer
