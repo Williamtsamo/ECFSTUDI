@@ -53,10 +53,10 @@ Instructions pour installer le projet. Par exemple :
 
     ```php
     <?php
-    define('DB_SERVER', 'localhost');
-    define('DB_USERNAME', 'votre_nom_utilisateur');
-    define('DB_PASSWORD', 'votre_mot_de_passe');
-    define('DB_NAME', 'nom_de_la_base_de_données');
+    define('DB_NAME', 'arcadia');
+    define('DB_HOST', 'localhost:3307');
+   define('DB_USER', 'root');
+   define('DB_PASSWORD', '');
     ?>
     ```
 
