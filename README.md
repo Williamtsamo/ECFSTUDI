@@ -78,24 +78,14 @@ Instructions et exemples sur comment utiliser votre projet après l'installation
     php -S localhost:8000
     ```
 
-2. **Accéder à l'application :**
 
-    Ouvrir un navigateur web et aller à `http://localhost:8000`.
-
-## Tests
 
 
     ```
 
 ## Contribuer
 
-Des instructions pour les développeurs qui veulent contribuer à votre projet. Par exemple :
 
-1. Fork le projet.
-2. Créer une nouvelle branche (`git checkout -b feature/amélioration`).
-3. Faire vos modifications et commiter (`git commit -am 'Ajouter une nouvelle fonctionnalité'`).
-4. Pousser la branche (`git push origin feature/amélioration`).
-5. Créer une Pull Request.
 
 ## Crédits
 
